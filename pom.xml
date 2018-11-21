@@ -61,10 +61,12 @@
     <url>https://travis-ci.org/google/guava</url>
   </ciManagement>
   <modules>
-    <module>guava</module>
+    <module>Function</module>
     <module>guava-gwt</module>
     <module>guava-testlib</module>
     <module>guava-tests</module>
+    <module>Base</module>
+    <module>KeyComponent</module>
   </modules>
   <build>
     <!-- Handle where Guava deviates from Maven defaults -->
