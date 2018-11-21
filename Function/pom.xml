@@ -9,7 +9,7 @@
   </parent>
   <artifactId>Function</artifactId>
   <packaging>bundle</packaging>
-  <name>Guava: Google Core Libraries for Java</name>
+  <name>Function</name>
   <description>
     Guava is a suite of core and expanded libraries that include
     utility classes, google's collections, io classes, and much
@@ -28,6 +28,7 @@
       <version>HEAD-jre-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
+
 
     <!-- TODO(cpovirk): does this comment belong on the <dependency> in <profiles>? -->
     <!-- TODO(cpovirk): want this only for dependency plugin but seems not to work there? Maven runs without failure, but the resulting Javadoc is missing the hoped-for inherited text -->

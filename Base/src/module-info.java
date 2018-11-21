@@ -11,5 +11,4 @@ module Base {
     exports com.google.common.base;
     exports com.google.common.math;
     exports com.google.common.primitives;
-
 }

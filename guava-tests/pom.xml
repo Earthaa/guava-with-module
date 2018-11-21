@@ -61,6 +61,18 @@
       <groupId>com.google.caliper</groupId>
       <artifactId>caliper</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>Function</artifactId>
+      <version>HEAD-jre-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>KeyComponent</artifactId>
+      <version>HEAD-jre-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
