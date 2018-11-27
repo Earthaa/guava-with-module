@@ -62,7 +62,6 @@
   </ciManagement>
   <modules>
     <module>Function</module>
-    <module>guava-gwt</module>
     <module>guava-testlib</module>
     <module>guava-tests</module>
     <module>Base</module>
